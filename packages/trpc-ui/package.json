@@ -1,12 +1,12 @@
 {
-  "name": "trpc-ui",
+  "name": "@levirs565/trpc-ui",
   "version": "1.0.15",
   "description": "UI for testing tRPC backends",
   "main": "lib/index.js",
   "module": "lib/index.mjs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aidansunbury/trpc-ui/"
+    "url": "https://github.com/levirs565/trpc-ui/"
   },
   "typings": "lib/src/index.d.ts",
   "scripts": {
